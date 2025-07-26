@@ -10,4 +10,4 @@ A Complete Micro Credit System Project Using SQL SERVER.
 - Sample queries for reporting and analysis
 
 ## Author
-Abu Rifat, Student of ISDB-BISEW at Daffodil Insttute Of IT,Chattogram.
+Abu Rifat, Student of ISDB-BISEW at Daffodil Institute Of IT,Chattogram.
